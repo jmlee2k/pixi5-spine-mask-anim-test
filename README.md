@@ -1,4 +1,4 @@
-# pixi5-spine-mask-anim-test
+# test case for pixi-spine issue [307](https://github.com/pixijs/pixi-spine/issues/307)
 
 ## Pixi 4.8.8 + latest pixi-spine for v4
 [test case](https://jmlee2k.github.io/pixi5-spine-mask-anim-test/v4.html) - everything works as expected
